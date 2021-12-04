@@ -1,0 +1,22 @@
+{
+  "cSpell.words": ["Vitesse"],
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.localesPaths": "locales",
+  "i18n-ally.sortKeys": true,
+  "prettier.enable": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+  },
+  "files.associations": {
+    "*.css": "postcss",
+  },
+  "editor.formatOnSave": false,
+  "workbench.colorCustomizations": {
+    "tab.activeBackground": "#06063b",
+    "tab.activeForeground": "#fff",
+    "activityBar.background": "#210B93",
+    "titleBar.activeBackground": "#2E0FCD",
+    "titleBar.activeForeground": "#FCFBFF"
+  },
+}
